@@ -15,6 +15,7 @@ class ListItemRecyclerViewAdapter (var list:TaskList): RecyclerView.Adapter<List
         return list.tasks.size
     }
 
+
     override fun onBindViewHolder(holder: ListItemViewHolder, position: Int) {
         holder.taskTextView.text = list.tasks[position]
     }
