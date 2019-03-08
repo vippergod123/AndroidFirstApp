@@ -1,5 +1,5 @@
 # AndroidFirstApp
 
 # Fragment
-# Preference, notifyItemChange
+# Share preference, notifyItemChange
 # Parcel
